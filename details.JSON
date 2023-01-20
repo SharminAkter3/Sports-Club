@@ -1,0 +1,50 @@
+[
+    {
+        "id": "101",
+        "img": "https://www.mpl.live/blog/wp-content/uploads/2021/04/chess-online.png",
+        "name": "Chess",
+        "details": "Chess is a board game for two players. It is sometimes called Western chess or international chess to distinguish it from related games such as xiangqi and shogi.",
+        "time": 20,
+        "age": "15-40"
+    },
+    {
+        "id": "102",
+        "img": "https://img.freepik.com/free-psd/ludo-board-mockup_1332-10389.jpg?w=2000",
+        "name": "Ludo",
+        "details": "Ludo is fun to play a multiplayer board game that can be played between 2, 3 or 4 players. It is the most popular and fun game to play with family and friends.",
+        "time": 20,
+        "age": "12-30"
+    },
+    {
+        "id": "103",
+        "img": "https://btcpeers.com/content/images/2022/04/Basketball-Swish.jpg",
+        "name": "Basketball",
+        "details": "Basketball is a team sport in which two teams, most commonly of five players each, compete with the primary objective of shooting a basketball",
+        "time": 30,
+        "age": "18-25"
+    },
+    {
+        "id": "104",
+        "img": "https://play-lh.googleusercontent.com/_UMdp3qCkx07-M-yK9bJCnKwVmCCseUnincAVgE6m36h1pIQSwkhettEhxBnJ4Q6EKvV",
+        "name": "Table Tennis",
+        "details": "Table tennis, also known as ping-pong and whiff-whaff, is a sport in which two or four players hit a lightweight ball, also known as the ping-pong ball.",
+        "time": 35,
+        "age": "18-30"
+    },
+    {
+        "id": "105",
+        "img": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Schools/Floorball/2012/floorball_ball_closeup_640.jpg",
+        "name": "Floorball",
+        "details": "Floorball is a type of floor hockey with five players and a goalkeeper in each team. Men and women play indoors with 96-115.5 cm-long sticks and a 70-72 mm-diameter plastic ball with holes.",
+        "time": 40,
+        "age": "18-25"
+    },
+    {
+        "id": "106",
+        "img": "https://akm-img-a-in.tosshub.com/lingo/itne/images/story/202206/carrom-rules-1.webp",
+        "name": "Carrom",
+        "details": "Carrom is very commonly played by families, including children, and at social functions. For those who do not know carrom game more, it is a strike and pocket game.",
+        "time": 40,
+        "age": "18-25"
+    }
+]

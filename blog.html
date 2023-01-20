@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <style>
+        h1 {
+            background-color: lightpink;
+            padding: 10px;
+            margin-left: 10px;
+        }
+
+        p {
+            background-color: lightgoldenrodyellow;
+            padding: 10px;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <h1>How does react work?</h1>
+        <p>ReactJS is one of the most popular JavaScript libraries for mobile and web application development. Created
+            by Facebook, React contains a collection of reusable JavaScript code snippets used for user interface (UI)
+            building called components.
+            It's important to note that ReactJS is not a JavaScript framework. That's because it,s only responsible for
+            rendering the components of an application's view layer.
+        </p>
+
+        <h1>Write down the difference between props and state in react?</h1>
+        <p>props (short for “properties”) and state are both plain JavaScript objects. While both hold information that
+            influences the output of render, they are different in one important way: props get passed to the component
+            (similar to function parameters) whereas state is managed within the component (similar to variables
+            declared within a function).</p>
+
+        <h1>How does useEffect work in React ?</h1>
+        <p>A functional React component uses props and/or state to calculate the output. If the functional component
+            makes calculations that don't target the output value, then these calculations are named side-effects.
+            Examples of side-effects are fetch requests, manipulating DOM directly, using timer functions like
+            setTimeout(), and more. The component rendering and side-effect logic are independent. It would be a mistake
+            to perform side-effects directly in the body of the component, which is primarily used to compute the
+            output.</p>
+    </div>
+
+</body>
+
+</html>
